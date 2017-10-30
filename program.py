@@ -1,3 +1,4 @@
+#Ира, это потрясающе. Возможно, самая лучшая домашняя работа
 __author__ = 'IrinaPavlova'
 
 import string, time
